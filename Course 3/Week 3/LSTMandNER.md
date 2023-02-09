@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/21165474/217721074-b7bed0d5-e189-45a5-9635-0bc0e5155ff3.png)
 ![image](https://user-images.githubusercontent.com/21165474/217721111-62b8e7cc-4cde-4c8a-8b4d-dc0bfe097d4f.png)
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+![image](https://user-images.githubusercontent.com/21165474/217722812-ceba6fa7-8e95-4948-8a3f-130f9067de8d.png)
 
 
 
