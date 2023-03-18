@@ -7,3 +7,5 @@
 How do Key, Query, and Value work together to find the right word in the attention mechanism?<br>
 Attention matches the key and query by assigning a value to the place the key is most likely to be.(You can think of the process as a way to save time by looking in the place where the key is most likely to be.)<br>
 
+
+
