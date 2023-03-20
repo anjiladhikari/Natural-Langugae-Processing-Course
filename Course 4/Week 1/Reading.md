@@ -8,9 +8,7 @@ How do Key, Query, and Value work together to find the right word in the attenti
 Attention matches the key and query by assigning a value to the place the key is most likely to be.(You can think of the process as a way to save time by looking in the place where the key is most likely to be.)<br>
 
 
-(What is Teacher Forcing?)[https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c]
-
-
+<br>[What is Teacher Forcing?](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
 
 ![image](https://user-images.githubusercontent.com/21165474/226242753-a36199ea-dd2a-4beb-a4fb-3d859bbd53c5.png)
 
