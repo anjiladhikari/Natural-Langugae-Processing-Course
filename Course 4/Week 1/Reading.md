@@ -43,6 +43,7 @@ Attention matches the key and query by assigning a value to the place the key is
 
 
 
+![image](https://user-images.githubusercontent.com/21165474/228497531-6e528d04-25c4-4189-90a9-c201e67d1746.png)
 
 
 
