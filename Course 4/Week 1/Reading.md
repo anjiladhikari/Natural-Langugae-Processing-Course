@@ -24,3 +24,4 @@ Attention matches the key and query by assigning a value to the place the key is
 ![image](https://user-images.githubusercontent.com/21165474/228491839-e6d03b16-6d1c-4990-8caf-12f539c7ab0f.png)
 
 
+![image](https://user-images.githubusercontent.com/21165474/228493011-904975ff-10a0-49db-aa2f-964ebb409699.png)
