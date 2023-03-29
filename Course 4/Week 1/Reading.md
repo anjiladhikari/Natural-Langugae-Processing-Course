@@ -18,3 +18,6 @@ Attention matches the key and query by assigning a value to the place the key is
 ![image](https://user-images.githubusercontent.com/21165474/226251644-e8ed1903-ac51-4c6e-9abd-fa629d9913a5.png)
 ![image](https://user-images.githubusercontent.com/21165474/226251771-5f7994de-abb2-4888-a701-ceadfc95b498.png)
 ![image](https://user-images.githubusercontent.com/21165474/226251822-164fbcc5-1142-448c-aa19-1227fa80ca60.png)
+
+![image](https://user-images.githubusercontent.com/21165474/228491171-a19f5418-e420-4378-b5af-d1c94f117e59.png)
+
