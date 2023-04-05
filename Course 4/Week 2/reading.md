@@ -34,3 +34,8 @@ Multi-head Attention
 ![image](https://user-images.githubusercontent.com/21165474/230058373-be4b2193-ed55-4021-ac69-13b1ef091b22.png)
 ![image](https://user-images.githubusercontent.com/21165474/230058573-046c1a49-80c1-4e4f-b170-87d6d6c46335.png)
 
+<br>
+That’s right! Since we do the training on a labeled dataset, we can compare its output with the actual correct output.
+Since we do the training on a labeled dataset, we can compare its output with the actual correct output.
+<br>
+
