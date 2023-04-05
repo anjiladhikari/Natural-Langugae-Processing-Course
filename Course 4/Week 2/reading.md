@@ -39,3 +39,8 @@ That’s right! Since we do the training on a labeled dataset, we can compare it
 Since we do the training on a labeled dataset, we can compare its output with the actual correct output.
 <br>
 
+
+![image](https://user-images.githubusercontent.com/21165474/230060873-950e3919-8a74-4631-a78e-bf86ba5df7d1.png)<br>
+You keep generating words by random sampling until you get the end-of-sentence (EOS) token. With this, it's possible that you get a different summary each time you run the model.
+
+
